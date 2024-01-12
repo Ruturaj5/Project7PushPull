@@ -21,9 +21,15 @@ public class Git_Demo7_PullpushAll
 	{
 		System.out.println("Lets try to pull");
 	}
+	
 	public void m7PullTry2() 
 	{
 		System.out.println("Lets try to pull Second Attemt");
+	}
+	
+	public void m7PullTry3() 
+	{
+		System.out.println("Lets try to pull Third Attemt");
 	}
 	public static void main(String[] args) 
 	{
