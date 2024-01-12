@@ -31,6 +31,12 @@ public class Git_Demo7_PullpushAll
 	{
 		System.out.println("Lets try to pull Third Attemt");
 	}
+	
+	public void m7BranchCreate() 
+	{
+		System.out.println("Lets try to Branch Create");
+	}
+	
 	public static void main(String[] args) 
 	{
 		System.out.println("main Method m7");	
