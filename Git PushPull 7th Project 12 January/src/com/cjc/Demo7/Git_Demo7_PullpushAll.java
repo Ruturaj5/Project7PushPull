@@ -16,6 +16,11 @@ public class Git_Demo7_PullpushAll
 	{
 		System.out.println("This is Method m777");
 	}
+
+	public void m7PullTry() 
+	{
+		System.out.println("Lets try to pull");
+	}
 	
 	public static void main(String[] args) 
 	{
