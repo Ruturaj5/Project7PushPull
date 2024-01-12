@@ -12,6 +12,10 @@ public class Git_Demo7_PullpushAll
 		System.out.println("This is Method m77");
 	}
 	
+	public void m777() 
+	{
+		System.out.println("This is Method m777");
+	}
 	
 	public static void main(String[] args) 
 	{
@@ -19,6 +23,7 @@ public class Git_Demo7_PullpushAll
 		Git_Demo7_PullpushAll  d7 = new Git_Demo7_PullpushAll ();
 		d7.m7();
 		d7.m77();
+		d7.m777();
 	
 	}
 
